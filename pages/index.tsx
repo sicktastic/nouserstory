@@ -48,12 +48,6 @@ export default function Home() {
             >
               Podcast
             </Link>
-            <Link
-              href="https://community.nouserstory.com/"
-              className="text-red-600 hover:text-red-800 active:text-red-900"
-            >
-              Community
-            </Link>
           </div>
         </motion.div>
       </div>
